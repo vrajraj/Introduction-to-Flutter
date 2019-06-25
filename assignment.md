@@ -3,5 +3,5 @@ For example:
 Your application can have 
 1. Login Page
 2. HomePage
-3. ProfilePage
+3. ProfilePage<br><br>
 P.S: You are not required to use and database, use hardcorded values for the application.
