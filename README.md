@@ -8,6 +8,9 @@ This repository contains all the resources and the assignment for week 2
 ## Week 2 Application Source Code
 - [Flutter Quotes](./flutter_bootcamp_week_2) by [Ayush Bherwani](https://github.com/AyushBherwani1998)
 
+## Dilum's Session Recording
+- [Flirting with Flutter](https://www.youtube.com/watch?v=PmNfNZ6QzOM&t=68s) by [Dilum De Silva](https://github.com/dilum1995)
+
 ## Assignment
 - You can find the assignment in [assignment.md](./assignment.md).
 - Fork this repository, create your own branch with branch name [your-name]
