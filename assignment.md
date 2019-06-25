@@ -4,4 +4,4 @@ Your application can have
 1. Login Page
 2. HomePage
 3. ProfilePage<br><br>
-P.S: You are not required to use and database, use hardcorded values for the application.
+P.S: You are not required to use any database, can use hardcorded values for the application.
