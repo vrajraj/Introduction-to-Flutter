@@ -6,7 +6,7 @@ This repository contains all the resources and the assignment for week 2
 - [Introduction to Flutter](https://bit.ly/2Y5vFmr) by [Ayush Bherwani](https://github.com/AyushBherwani1998)
 
 ## Week 2 Application Source Code
-- [Flutter Quotes](./Introduction-to-Flutter/flutter_bootcamp_week_2) by [Ayush Bherwani](https://github.com/AyushBherwani1998)
+- [Flutter Quotes](./flutter_bootcamp_week_2) by [Ayush Bherwani](https://github.com/AyushBherwani1998)
 
 ## Assignment
 - You can find the assignment in [assignment.md](./assignment.md).
